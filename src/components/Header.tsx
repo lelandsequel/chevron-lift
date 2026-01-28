@@ -19,7 +19,7 @@ export default function Header() {
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
             </svg>
           </div>
-          <span className="font-semibold text-lg tracking-tight">ChevronLift</span>
+          <span className="font-semibold text-lg tracking-tight">C&L FracOps</span>
           <span className="text-xs text-zinc-500 font-medium ml-1">FracFlow</span>
         </div>
         <div className="h-6 w-px bg-[#1e1e2d]" />

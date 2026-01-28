@@ -1,4 +1,4 @@
-// Demo data for ChevronLift - FracFlow Command Center
+// Demo data for C&L FracOps - FracFlow Command Center
 // Realistic Permian Basin style wells and operations
 
 export interface Well {

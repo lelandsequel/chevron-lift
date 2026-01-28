@@ -1,14 +1,14 @@
-# ChevronLift - FracFlow Command Center
+# C&L FracOps - FracFlow Command Center
 
 Real-time completions & logistics cockpit for multi-well frac operations.
 
-![ChevronLift](https://img.shields.io/badge/Status-MVP-blue)
+![C&L FracOps](https://img.shields.io/badge/Status-MVP-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4.0-38bdf8)
 
 ## Overview
 
-ChevronLift is an operations command center for managing hydraulic fracturing (frac) operations across multiple wells. It provides:
+C&L FracOps is an operations command center for managing hydraulic fracturing (frac) operations across multiple wells. It provides:
 
 - **Real-time well status monitoring** - Track active, standby, and scheduled wells
 - **Gantt-style stage scheduling** - Visual timeline of frac stages across wells

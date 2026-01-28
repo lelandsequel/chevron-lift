@@ -1,4 +1,4 @@
-// Real schedule optimizer for ChevronLift
+// Real schedule optimizer for C&L FracOps
 // Performs actual constraint solving for frac operations scheduling
 
 import { Stage, Crew, Equipment, ScheduleConflict, OptimizationResult, crews, equipment, stages as allStages } from './data';

@@ -1,10 +1,10 @@
-# ChevronLift Architecture
+# C&L FracOps Architecture
 
 ## System Overview
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        ChevronLift UI                           │
+│                        C&L FracOps UI                           │
 │  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐           │
 │  │  Header  │ │ Metrics  │ │  Wells   │ │ Schedule │           │
 │  └──────────┘ └──────────┘ └──────────┘ └──────────┘           │
@@ -191,4 +191,4 @@ GET    /api/optimizer/suggestions # Get current suggestions
 
 ---
 
-*Architecture document for ChevronLift FracFlow Command Center*
+*Architecture document for C&L FracOps FracFlow Command Center*

@@ -13,7 +13,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'ChevronLift - FracFlow Command Center',
+  title: 'C&L FracOps - FracFlow Command Center',
   description: 'Real-time completions & logistics cockpit for multi-well frac operations',
   icons: {
     icon: '/favicon.ico',

@@ -1,4 +1,4 @@
-// Export utilities for ChevronLift
+// Export utilities for C&L FracOps
 
 import { Stage, Well, Crew, Equipment, wells, crews, equipment } from './data';
 
@@ -80,7 +80,7 @@ export function generateScheduleReport(stages: Stage[]): string {
 <!DOCTYPE html>
 <html>
 <head>
-  <title>ChevronLift Schedule Report - ${now.toLocaleDateString()}</title>
+  <title>C&L FracOps Schedule Report - ${now.toLocaleDateString()}</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { 
@@ -152,7 +152,7 @@ export function generateScheduleReport(stages: Stage[]): string {
 </head>
 <body>
   <div class="header">
-    <h1>ChevronLift FracFlow Schedule Report</h1>
+    <h1>C&L FracOps Schedule Report</h1>
     <p>Generated: ${now.toLocaleString()} | Permian Basin Operations</p>
   </div>
 
@@ -225,7 +225,7 @@ export function generateScheduleReport(stages: Stage[]): string {
   }).join('')}
 
   <div class="footer">
-    <p>ChevronLift FracFlow Command Center | Permian Basin Operations</p>
+    <p>C&L FracOps FracFlow Command Center | Permian Basin Operations</p>
     <p>Report generated for internal use only. Schedule subject to change based on field conditions.</p>
   </div>
 </body>

@@ -51,7 +51,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="h-8 bg-[#0d0d14] border-t border-[#1e1e2d] flex items-center justify-between px-4 text-[10px] text-zinc-600">
         <div className="flex items-center gap-4">
-          <span>ChevronLift FracFlow Command Center v1.0</span>
+          <span>C&L FracOps FracFlow Command Center v1.0</span>
           <span>|</span>
           <span>Permian Basin Operations</span>
         </div>
